@@ -68,7 +68,8 @@ That’s where our project comes in:
 
 # The Goal:
 > **Transform waste collection into a smart, efficient, and sustainable process for a cleaner future.**
-![output 3](https://github.com/user-attachments/assets/3ac88191-c4a8-4b3f-bd68-136f6198bdc8)
-![output 2](https://github.com/user-attachments/assets/970f68ce-d930-41c3-986c-b543fa853fb0)
 ![output 1](https://github.com/user-attachments/assets/b5d4f2d9-90bb-42fa-9188-a11d41779f88)
-![output 1](https://github.com/user-attachments/assets/f4f2f434-0d97-4a70-91a7-354cf5df21dd)
+![output 2](https://github.com/user-attachments/assets/970f68ce-d930-41c3-986c-b543fa853fb0)
+![output 4](https://github.com/user-attachments/assets/403849f7-9e01-4bc4-a4ba-af8ef070e8e2)
+![output 3](https://github.com/user-attachments/assets/3ac88191-c4a8-4b3f-bd68-136f6198bdc8)
+
