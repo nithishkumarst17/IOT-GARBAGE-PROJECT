@@ -16,12 +16,7 @@ That’s where our project comes in:
 2. **Location Tracking**:  
    A **GPS Module** is attached to each bin, recording the exact location. This information is crucial when sending updates to the cloud.
 
-3. **Real-Time Alerts**:  ![WhatsApp Image 2025-04-23 at 18 01 24_8b777ba9](https://github.com/user-attachments/assets/96d7b6b9-2a52-4b9a-aa19-4dc4477d7081)
-![output 3](https://github.com/user-attachments/assets/3ac88191-c4a8-4b3f-bd68-136f6198bdc8)
-![output 2](https://github.com/user-attachments/assets/970f68ce-d930-41c3-986c-b543fa853fb0)
-![output 1](https://github.com/user-attachments/assets/b5d4f2d9-90bb-42fa-9188-a11d41779f88)
-![output 1](https://github.com/user-attachments/assets/f4f2f434-0d97-4a70-91a7-354cf5df21dd)
-
+3. **Real-Time Alerts**:
    Using an **ESP32 microcontroller**, the bin sends data (garbage level + location) to an IoT cloud platform (like Blynk or Firebase).
 
 4. **Optimized Route Finding**:  
@@ -73,3 +68,7 @@ That’s where our project comes in:
 
 # The Goal:
 > **Transform waste collection into a smart, efficient, and sustainable process for a cleaner future.**
+![output 3](https://github.com/user-attachments/assets/3ac88191-c4a8-4b3f-bd68-136f6198bdc8)
+![output 2](https://github.com/user-attachments/assets/970f68ce-d930-41c3-986c-b543fa853fb0)
+![output 1](https://github.com/user-attachments/assets/b5d4f2d9-90bb-42fa-9188-a11d41779f88)
+![output 1](https://github.com/user-attachments/assets/f4f2f434-0d97-4a70-91a7-354cf5df21dd)
