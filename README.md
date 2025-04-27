@@ -1,4 +1,4 @@
-# 🌎Smart Trash Bin with Shortest Path Finder  
+# Smart Trash Bin with Shortest Path Finder  
 ## **An IoT-enabled solution to revolutionize waste collection**
 
 Imagine a bustling city where waste collection is always a challenge. Bins overflow, trucks waste fuel checking half-empty bins, and cities struggle to stay clean.  
